@@ -1,0 +1,11 @@
+C:\Users\Sascha\AppData\Local\Temporary Projects\WindowsApplication1\bin\Release\WindowsApplication1.exe
+C:\Users\Sascha\AppData\Local\Temporary Projects\WindowsApplication1\bin\Release\WindowsApplication1.pdb
+C:\Users\Sascha\AppData\Local\Temporary Projects\WindowsApplication1\bin\Release\WindowsApplication1.xml
+C:\Users\Sascha\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Sascha\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Release\WindowsApplication1.Form1.resources
+C:\Users\Sascha\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Release\WindowsApplication1.Resources.resources
+C:\Users\Sascha\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Sascha\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Sascha\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Release\WindowsApplication1.exe
+C:\Users\Sascha\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Release\WindowsApplication1.xml
+C:\Users\Sascha\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Release\WindowsApplication1.pdb
